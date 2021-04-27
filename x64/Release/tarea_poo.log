@@ -1,0 +1,9 @@
+﻿  Clientes.cpp
+  ConexionBD.cpp
+  Persona.cpp
+  tarea_poo.cpp
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  Generando código
+  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  tarea_poo.vcxproj -> C:\Users\sergg\OneDrive\Documentos\Tarea_Poo\tarea_poo\x64\Release\tarea_poo.exe
